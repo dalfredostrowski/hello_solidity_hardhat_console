@@ -74,3 +74,12 @@ Promise {
 'aaabbbb'
 >const bal2 = await ethers.provider.getBalance(signers[0])
 >bal
+
+
+
+
+
+
+
+ref:
+https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04
